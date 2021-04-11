@@ -1,0 +1,18 @@
+
+div.post{
+    background: white;
+    margin-top: 10px;
+    outline-style: solid;
+    outline-color: black;
+    align-content: space-between;
+}
+.safe{
+    text-align: right;
+}
+div.post img{
+    width: 100%; 
+}
+div.post h2{
+    display: inline-block;
+    width: 80%;
+}
